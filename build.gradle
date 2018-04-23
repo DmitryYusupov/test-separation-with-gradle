@@ -7,11 +7,6 @@ sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
-    maven { url "http://sbtnexus.ca.sbrf.ru:8081/nexus/content/repositories/central" }
-    maven { url "http://sbtnexus.ca.sbrf.ru:8081/nexus/content/repositories/repo_spring_proxy" }
-    maven { url "http://sbtnexus.ca.sbrf.ru:8081/nexus/content/repositories/Atlassian_proxy/" }
-    maven { url "http://sbtnexus.ca.sbrf.ru:8081/nexus/content/repositories/backbase_repo" }
-    maven { url "http://sbtnexus.ca.sbrf.ru:8081/nexus/content/repositories/oad_thirdparty" }
 }
 
 sourceSets {
